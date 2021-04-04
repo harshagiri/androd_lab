@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ExpNo5</string>
+    <string name="title">Employee Details</string>
+    <string name="employee_id">Enter Employee ID</string>
+    <string name="name">Enter Name</string>
+    <string name="salary">Enter Salary</string>
+    <string name="add">Add Employee</string>
+    <string name="delete">Delete Employee</string>
+    <string name="modify">Modify Employee</string>
+    <string name="view">View Employee</string>
+    <string name="view_all">View All Employees</string>
+</resources>
